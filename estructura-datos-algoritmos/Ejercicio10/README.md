@@ -1,0 +1,2 @@
+Ejercicio 10 - Construí un prompt para OpenCode que solicite la implementación en Java del algoritmo Bubble Sort.
+El prompt debe explicar por qué este algoritmo resulta adecuado únicamente para fines didácticos o conjuntos pequeños de datos y solicitar que el programa contabilice comparaciones e intercambios.
