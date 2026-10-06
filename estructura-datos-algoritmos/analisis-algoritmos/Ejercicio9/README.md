@@ -1,2 +1,0 @@
-Ejercicio 9 - Construí un prompt para OpenCode que solicite la implementación en Java de un algoritmo que encuentre el mayor elemento de una matriz.
-El prompt debe justificar por qué resulta necesario recorrer todos los elementos y solicitar el análisis de la complejidad temporal y espacial.
