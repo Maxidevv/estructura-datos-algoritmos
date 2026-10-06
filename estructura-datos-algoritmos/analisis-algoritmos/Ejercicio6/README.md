@@ -1,2 +1,0 @@
-Ejercicio 6 - Construí un prompt para OpenCode que solicite la implementación en Java de un algoritmo que determine si dos vectores son iguales.
-El prompt debe indicar que el algoritmo finalice apenas detecte una diferencia y solicitar el análisis del mejor caso, peor caso y caso promedio.

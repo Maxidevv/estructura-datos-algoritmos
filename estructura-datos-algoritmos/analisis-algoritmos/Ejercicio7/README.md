@@ -1,3 +1,0 @@
-Ejercicio 7 - Construí un prompt para OpenCode que solicite la implementación en Java de dos versiones distintas para invertir un vector.
-Una versión deberá utilizar un vector auxiliar y la otra deberá invertir el mismo vector sin utilizar memoria adicional significativa.
-El prompt deberá solicitar una comparación entre ambas soluciones indicando ventajas, desventajas y complejidad temporal y espacial.
