@@ -1,0 +1,2 @@
+Ejercicio 4 - Solicite la implementación en Java de dos soluciones diferentes para detectar elementos duplicados dentro de un vector.
+El prompt debe indicar que una solución utilice dos ciclos anidados y que la otra utilice una estructura HashSet, solicitando además una comparación entre ambas implementaciones desde el punto de vista de la complejidad temporal y espacial.

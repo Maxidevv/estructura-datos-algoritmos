@@ -1,0 +1,2 @@
+Ejercicio 5 - Construí un prompt para OpenCode que solicite la implementación en Java de un algoritmo que cuente cuántas veces aparece un determinado valor dentro de un vector.
+El prompt debe justificar por qué el algoritmo necesita recorrer completamente el vector y solicitar el análisis de su complejidad.

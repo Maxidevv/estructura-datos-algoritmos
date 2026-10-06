@@ -1,0 +1,2 @@
+Ejercicio 8 - Construí un prompt para OpenCode que solicite la implementación en Java de un algoritmo que calcule la suma de todos los elementos de una matriz.
+El prompt debe indicar cómo se recorrerá la matriz, solicitar el análisis de la complejidad y pedir que el programa contabilice la cantidad de operaciones realizadas.
